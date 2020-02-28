@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://netaml.github.io/challenge/netml/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netaml.github.io/challenge/netml/overview/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netaml.github.io/challenge/netml/instr/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netaml.github.io/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netaml.github.io/cfp/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netaml.github.io/program/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://netaml.github.io/authors/admin/</loc>
   </url>
   
@@ -19,15 +49,7 @@
   </url>
   
   <url>
-    <loc>https://netaml.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://netaml.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://netaml.github.io/publication/</loc>
   </url>
   
   <url>
